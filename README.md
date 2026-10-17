@@ -27,7 +27,7 @@
 
 ### 1. 创建 Worker
 
-打开 [Cloudflare Dashboard](https://dash.cloudflare.com) → **Workers 和 Pages** → **创建 Worker** → 粘贴 `lite.js` 全部内容。
+打开 [Cloudflare Dashboard](https://dash.cloudflare.com) → **Workers 和 Pages** → **创建 Worker** → 粘贴 `worker.js` 全部内容。
 
 ### 2. 修改顶部配置区
 
